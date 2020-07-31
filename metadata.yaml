@@ -1,0 +1,36 @@
+_repo: The-Little-Dauphin_62650
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+    wikipedia: https://de.wikipedia.org/wiki/Franz_Hoffmann_(Schriftsteller)
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62650'
+  lccn: '05032425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life Stories for Young People
+subjects:
+- !lcc 'DC'
+- !lcsh 'Louis XVII, of France, 1785-1795'
+- GITenberg
+title: The Little Dauphin
+url: http://www.gutenberg.org/ebooks/62650
